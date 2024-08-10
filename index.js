@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Roxanne is the best<3","Ishaan is the best<3","Ish x Rox forever<3"];
+const statusMessages = ["Ikigai ^~^"];
 
 
 let currentIndex = 0;
